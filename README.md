@@ -1,2 +1,6 @@
-# Padroes-de-Projetos-na-Pratica-com-Java
-Crie uma solução que explore o conceito de Padrões de Projeto na prática
+# Explorando Padrões de Projetos na Prática com Java
+
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
+- Singleton
+- Strategy
+- Facade
